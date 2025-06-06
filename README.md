@@ -3,7 +3,7 @@
 **Selesai** - [✅]\
 **Belum Selesai** - [🚧]\
 **Time Limit Exceeded** - [⚠️] 
-\
+
 **SOAL OSN**
 * [🎂]Ulang Tahun - ⚠️ [OSN2006](https://tlx.toki.id/problems/osn-2006/C)
 
