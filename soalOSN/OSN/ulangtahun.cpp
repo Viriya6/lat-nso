@@ -23,3 +23,4 @@ int main(){
 	}
 	 
 }
+//by Viriya6 (Time Limit Exceeded)
