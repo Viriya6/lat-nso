@@ -10,4 +10,4 @@
 
 **SOAL OSNP**
 * [💡] Lampu Hias - ✅ [[OSNP2022](https://tlx.toki.id/problems/osnp-2022/B1)]
-* [🃏] Kartu - ✅ [[KSP22021](https://tlx.toki.id/problems/ksnp-2021/B2)]
+* [🃏] Kartu - ✅ [[KSNP2021](https://tlx.toki.id/problems/ksnp-2021/B2)]
