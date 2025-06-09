@@ -1,9 +1,8 @@
 ## lat-nso 🎉
-\
 **Selesai** - [✅]\
 **Belum Selesai** - [🚧]\
 **Time Limit Exceeded** - [⚠️]] \
-[[TLX PROFILE 🧑🏻](https://tlx.toki.id/profiles/Viriya6)]
+[TLX PROFILE 🧑🏻](https://tlx.toki.id/profiles/Viriya6)
 
 **SOAL OSN-0**
 * [👋🏻] Halo Dunia - ✅ [[OSN2010](https://tlx.toki.id/problems/osn-2010/0A)]
